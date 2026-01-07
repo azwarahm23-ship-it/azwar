@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EduQuest - Aplikasi Ujian Digital",
+  "description": "Platform ujian modern dengan fitur monitoring, timer, dan analisis hasil ujian berbasis AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
